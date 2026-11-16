@@ -40,7 +40,7 @@ ShacoMarux/
 
 ### 1. Cloner le dépôt et lancer l'installateur
 ```bash
-git clone https://github.com
+git clone https://github.com/Sha5comarux/ShacoMarux.git
 cd ShacoMarux
 chmod +x install.sh && ./install.sh
 ```
