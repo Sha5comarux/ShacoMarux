@@ -10,6 +10,14 @@
 
 ---
 
+## 📸 Aperçu de l'interface
+
+<div align="center">
+  <img src="preview.png" alt="ShacoMarux Interface" width="580" />
+</div>
+
+---
+
 ## 🎯 Présentation du Projet
 
 **ShacoMarux** est une application de bureau développée en **Python (Tkinter)** permettant d'automatiser et de combiner plusieurs outils standards de cybersécurité en un seul clic. Conçue pour les travaux pratiques (TP) et les environnements de laboratoire (`localhost`), elle offre une interface visuelle interactive dotée d'un bouton animé (**Shaco Box**) et d'un sélecteur adaptatif (**Username / Email**).
