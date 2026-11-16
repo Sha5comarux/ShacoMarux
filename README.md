@@ -13,7 +13,7 @@
 ## 📸 Aperçu de l'interface
 
 <div align="center">
-  <img src="preview.png" alt="ShacoMarux Interface" width="580" />
+  <img src="git.png" alt="ShacoMarux Interface" width="580" />
 </div>
 
 ---
